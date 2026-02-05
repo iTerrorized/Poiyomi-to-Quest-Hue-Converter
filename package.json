@@ -1,22 +1,22 @@
 {
-  "name": "dev.sleightly.template",
-  "displayName": "JS-Template",
-  "version": "0.0.0",
-  "description": "A VPM Package Template",
-  "url": "https://github.com/JustSleightly/VPM-Package-Template",
+  "name": "dev.terrorized.poitoquest",
+  "displayName": "Poiyomi to Quest Hue Converter",
+  "version": "1.1.6",
+  "description": "Poi to Quest Hue Converter is a Unity Editor tool to convert Poiyomi shader hue shift animations to Quest compatible VRChat hue shift properties.",
+  "url": "https://github.com/iTerrorized/Poiyomi-to-Quest-Hue-Converter",
   "vpmDependencies": {
     "com.vrchat.avatars": "^3.10.0"
   },
   "type": "tool",
   "keywords": [
-    "JustSleightly",
-    "Sleightly",
+    "Terrorized",
+    "Terrorized",
     "VRChat",
-    "Template"
+    "Poiyomi to Quest Hue Converter"
   ],
   "author": {
-    "name": "JustSleightly",
-    "email": "just@sleightly.dev",
-    "url": "https://just.sleightly.dev"
+    "name": "Terrorized",
+    "email": "xterrorized@outlook.com",
+    "url": "https://terrorized.dev"
   }
 }
