@@ -2,6 +2,7 @@
   "name": "dev.terrorized.poitoquest",
   "displayName": "Poiyomi to Quest Hue Converter",
   "version": "1.1.6",
+  "unity": "2022.3.22f1",
   "description": "Poi to Quest Hue Converter is a Unity Editor tool to convert Poiyomi shader hue shift animations to Quest compatible VRChat hue shift properties.",
   "url": "https://github.com/iTerrorized/Poiyomi-to-Quest-Hue-Converter",
   "vpmDependencies": {
